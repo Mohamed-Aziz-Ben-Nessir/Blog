@@ -1,0 +1,18 @@
+baseURL = 'https://mohamed-aziz-ben-nessir.github.io/'
+languageCode = 'en-us'
+title = 'Mohamed Aziz Ben Nessir Blog'
+theme ='hugo-PaperMod'
+[params.homeInfoParams]
+Title = "Hi there!"
+Content = "My name is mohamed aziz, I'm a machine learning enthusiasts and a developer who enjoys writting technical blog posts. Here you can find articals about all things machine learning,web development and linux configuration."
+[[params.socialIcons]]
+name = "Linkedin"
+url="https://www.linkedin.com/in/mohamed-aziz-ben-nessir-9b517820a/"
+[[params.socialIcons]]
+name = "Github"
+url="https://github.com/Mohamed-Aziz-Ben-Nessir"
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20

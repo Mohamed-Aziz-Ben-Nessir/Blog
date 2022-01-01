@@ -1,0 +1,4 @@
+[submodule "Mohamed-Aziz-Ben-Nessir-Blog/public"]
+	path = Mohamed-Aziz-Ben-Nessir-Blog/public
+	url = https://github.com/Mohamed-Aziz-Ben-Nessir/Mohamed-Aziz-Ben-Nessir.github.io.git
+	branch = main
